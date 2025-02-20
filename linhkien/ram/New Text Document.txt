@@ -1,0 +1,64 @@
+{
+  "id": 5,
+  "name": "RAM Kingston Fury Beast RGB 16GB (2x8GB) DDR5 5600MHz",
+  "image": "https://example.com/kingston-fury-beast-rgb.jpg",
+  "price": "2.190.000đ",
+  "oldPrice": "2.490.000đ -12.0%",
+  "details": {
+    "Dung lượng": "16GB (2x8GB)",
+    "Chuẩn RAM": "DDR5",
+    "Bus": "5600MHz",
+    "Độ trễ": "CL40",
+    "Điện áp": "1.25V",
+    "Tản nhiệt": "Có, với RGB",
+    "Công nghệ": ["Intel XMP 3.0", "Dynamic RGB Lighting"]
+  }
+}
+
+
+
+
+
+
+
+{
+  "id": 6,
+  "name": "RAM Adata XPG Lancer 16GB 6000MHz DDR5",
+  "image": "https://example.com/adata-xpg-lancer.jpg",
+  "price": "2.290.000đ",
+  "oldPrice": "2.590.000đ -11.6%",
+  "details": {
+    "Dung lượng": "16GB (1x16GB)",
+    "Chuẩn RAM": "DDR5",
+    "Bus": "6000MHz",
+    "Độ trễ": "CL40",
+    "Điện áp": "1.35V",
+    "Tản nhiệt": "Có, với RGB",
+    "Công nghệ": ["Intel XMP 3.0", "Dynamic RGB Lighting"]
+  }
+}
+
+
+
+
+
+
+
+
+
+{
+  "id": 7,
+  "name": "RAM G.Skill Trident Z5 RGB 16GB (1x16GB) 6000MHz DDR5 Silver",
+  "image": "https://example.com/gskill-trident-z5-rgb.jpg",
+  "price": "2.590.000đ",
+  "oldPrice": "2.890.000đ -10.4%",
+  "details": {
+    "Dung lượng": "16GB (1x16GB)",
+    "Chuẩn RAM": "DDR5",
+    "Bus": "6000MHz",
+    "Độ trễ": "CL40",
+    "Điện áp": "1.35V",
+    "Tản nhiệt": "Có, với RGB",
+    "Công nghệ": ["Intel XMP 3.0", "High-Performance Aluminum Heatspreader"]
+  }
+}

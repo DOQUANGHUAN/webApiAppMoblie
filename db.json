@@ -1,0 +1,222 @@
+﻿{
+  "accountUser": [
+    {
+      "username": "huan",
+      "password": "123"
+    },
+    {
+      "username": "huan1",
+      "password": "123"
+    }
+  ],
+  "linhKien": [
+    {
+      "id": 1,
+      "name": "Card màn hình ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
+      "image": "linhkien/card/card1.jpg",
+      "price": "15.990.000đ",
+      "oldPrice": "16.990.000đ -5.9%",
+      "details": {
+        "GPU": "NVIDIA GeForce RTX 4070 SUPER",
+        "Bộ nhớ": "12GB GDDR6X",
+        "Bus bộ nhớ": "192-bit",
+        "Xung nhịp": "Tăng tốc lên đến 2475 MHz",
+        "Số nhân CUDA": "7168",
+        "Cổng kết nối": [ "1 x HDMI 2.1a", "3 x DisplayPort 1.4a" ],
+        "Tản nhiệt": "2 quạt Axial-tech",
+        "Công suất nguồn khuyến nghị": "650W",
+        "Đầu nối nguồn": "1 x 8-pin",
+        "Công nghệ": [ "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Card màn hình GIGABYTE AORUS GeForce RTX 4070 Ti MASTER 12GB",
+      "image": "linhkien/card/card2.jpg",
+      "price": "22.990.000đ",
+      "oldPrice": "24.490.000đ -6.1%",
+      "details": {
+        "GPU": "NVIDIA GeForce RTX 4070 Ti",
+        "Bộ nhớ": "12GB GDDR6X",
+        "Bus bộ nhớ": "192-bit",
+        "Xung nhịp": "Tăng tốc lên đến 2760 MHz",
+        "Số nhân CUDA": "8448",
+        "Cổng kết nối": [ "3 x DisplayPort 1.4a", "2 x HDMI 2.1a" ],
+        "Tản nhiệt": "WINDFORCE 3X với 3 quạt 110mm",
+        "Công suất nguồn khuyến nghị": "750W",
+        "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+        "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Card màn hình GIGABYTE GeForce RTX 4070 Ti AERO OC 12GB",
+      "image": "linhkien/card/card3.jpg",
+      "price": "21.990.000đ",
+      "oldPrice": "23.490.000đ -6.4%",
+      "details": {
+        "GPU": "NVIDIA GeForce RTX 4070 Ti",
+        "Bộ nhớ": "12GB GDDR6X",
+        "Bus bộ nhớ": "192-bit",
+        "Xung nhịp": "Tăng tốc lên đến 2640 MHz",
+        "Số nhân CUDA": "8448",
+        "Cổng kết nối": [ "3 x DisplayPort 1.4a", "1 x HDMI 2.1a" ],
+        "Tản nhiệt": "WINDFORCE 3X với 3 quạt 100mm",
+        "Công suất nguồn khuyến nghị": "750W",
+        "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+        "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nguồn ASUS ROG Thor 1000P2 - 80 Plus Platinum - Full Modular (1000W)",
+      "image": "linhkien/nguon/nguon1.jpg",
+      "price": "7.990.000đ",
+      "oldPrice": "8.490.000đ -5.9%",
+      "details": {
+        "Công suất": "1000W",
+        "Chứng nhận": "80 Plus Platinum",
+        "Chuẩn nguồn": "ATX",
+        "Hiệu suất": "Lên đến 92%",
+        "Modular": "Full Modular",
+        "Quạt làm mát": "135mm với công nghệ 0dB",
+        "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+        "Công nghệ": [ "OLED Display", "Japanese Capacitors", "ROG Heatsinks" ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Nguồn ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular",
+      "image": "linhkien/nguon/nguon2.jpg",
+      "price": "6.990.000đ",
+      "oldPrice": "7.490.000đ -6.7%",
+      "details": {
+        "Công suất": "1000W",
+        "Chứng nhận": "80 Plus Gold",
+        "Chuẩn nguồn": "ATX",
+        "Hiệu suất": "Lên đến 90%",
+        "Modular": "Full Modular",
+        "Quạt làm mát": "135mm với công nghệ Axial-tech",
+        "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+        "Công nghệ": [ "Japanese Capacitors", "Dual Ball Bearing Fan", "ROG Heatsinks" ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nguồn Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W)",
+      "image": "linhkien/nguon/nguon3.jpg",
+      "price": "4.990.000đ",
+      "oldPrice": "5.390.000đ -7.4%",
+      "details": {
+        "Công suất": "1000W",
+        "Chứng nhận": "80 Plus Gold",
+        "Chuẩn nguồn": "ATX 3.0",
+        "Hiệu suất": "Lên đến 90%",
+        "Modular": "Full Modular",
+        "Quạt làm mát": "120mm với chế độ Zero RPM",
+        "Đầu nối PCIe 5.0": "Có (12VHPWR)",
+        "Công nghệ": [ "Japanese Capacitors", "Zero RPM Mode", "LLC Resonant Topology" ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "RAM Kingston Fury Beast RGB 16GB (2x8GB) DDR5 5600MHz",
+      "image": "linhkien/ram/ram1.jpg",
+      "price": "2.190.000đ",
+      "oldPrice": "2.490.000đ -12.0%",
+      "details": {
+        "Dung lượng": "16GB (2x8GB)",
+        "Chuẩn RAM": "DDR5",
+        "Bus": "5600MHz",
+        "Độ trễ": "CL40",
+        "Điện áp": "1.25V",
+        "Tản nhiệt": "Có, với RGB",
+        "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "RAM Adata XPG Lancer 16GB 6000MHz DDR5",
+      "image": "linhkien/ram/ram2.jpg",
+      "price": "2.290.000đ",
+      "oldPrice": "2.590.000đ -11.6%",
+      "details": {
+        "Dung lượng": "16GB (1x16GB)",
+        "Chuẩn RAM": "DDR5",
+        "Bus": "6000MHz",
+        "Độ trễ": "CL40",
+        "Điện áp": "1.35V",
+        "Tản nhiệt": "Có, với RGB",
+        "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "RAM G.Skill Trident Z5 RGB 16GB (1x16GB) 6000MHz DDR5 Silver",
+      "image": "linhkien/ram/ram3.jpg",
+      "price": "2.590.000đ",
+      "oldPrice": "2.890.000đ -10.4%",
+      "details": {
+        "Dung lượng": "16GB (1x16GB)",
+        "Chuẩn RAM": "DDR5",
+        "Bus": "6000MHz",
+        "Độ trễ": "CL40",
+        "Điện áp": "1.35V",
+        "Tản nhiệt": "Có, với RGB",
+        "Công nghệ": [ "Intel XMP 3.0", "High-Performance Aluminum Heatspreader" ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "SSD Samsung 990 EVO Plus 1TB",
+      "image": "linhkien/ssd/ssd1.jpg",
+      "price": "2.890.000đ",
+      "oldPrice": "3.190.000đ -9.4%",
+      "details": {
+        "Dung lượng": "1TB",
+        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+        "Tốc độ đọc": "5,000 MB/s",
+        "Tốc độ ghi": "4,200 MB/s",
+        "TBW (Độ bền ghi)": "600TBW",
+        "Bảo hành": "5 năm",
+        "Bộ nhớ NAND": "V-NAND 3-bit MLC",
+        "Công nghệ": [ "Samsung Magician", "Dynamic Thermal Guard" ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "SSD KingSpec XG 7000 1TB",
+      "image": "linhkien/ssd/ssd2.jpg",
+      "price": "2.490.000đ",
+      "oldPrice": "2.790.000đ -10.8%",
+      "details": {
+        "Dung lượng": "1TB",
+        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+        "Tốc độ đọc": "7,000 MB/s",
+        "Tốc độ ghi": "6,500 MB/s",
+        "TBW (Độ bền ghi)": "600TBW",
+        "Bảo hành": "5 năm",
+        "Bộ nhớ NAND": "TLC 3D NAND",
+        "Công nghệ": [ "HMB (Host Memory Buffer)", "Dynamic SLC Cache" ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "SSD WD_BLACK SN850X 1TB",
+      "image": "linhkien/ssd/ssd3.jpg",
+      "price": "3.490.000đ",
+      "oldPrice": "3.890.000đ -10.3%",
+      "details": {
+        "Dung lượng": "1TB",
+        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+        "Tốc độ đọc": "7,300 MB/s",
+        "Tốc độ ghi": "6,300 MB/s",
+        "TBW (Độ bền ghi)": "600TBW",
+        "Bảo hành": "5 năm",
+        "Bộ nhớ NAND": "3D TLC NAND",
+        "Công nghệ": [ "WD_BLACK Dashboard", "Game Mode 2.0", "Heatsink Option" ]
+      }
+    }
+  ]
+ 
+}

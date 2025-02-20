@@ -1,0 +1,59 @@
+{
+  "id": 2,
+  "name": "SSD Samsung 990 EVO Plus 1TB",
+  "image": "https://example.com/ssd-image.jpg",
+  "price": "2.890.000đ",
+  "oldPrice": "3.190.000đ -9.4%",
+  "details": {
+    "Dung lượng": "1TB",
+    "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+    "Tốc độ đọc": "5,000 MB/s",
+    "Tốc độ ghi": "4,200 MB/s",
+    "TBW (Độ bền ghi)": "600TBW",
+    "Bảo hành": "5 năm",
+    "Bộ nhớ NAND": "V-NAND 3-bit MLC",
+    "Công nghệ": ["Samsung Magician", "Dynamic Thermal Guard"]
+  }
+}
+
+
+
+{
+  "id": 3,
+  "name": "SSD KingSpec XG 7000 1TB",
+  "image": "https://example.com/kingspec-xg7000.jpg",
+  "price": "2.490.000đ",
+  "oldPrice": "2.790.000đ -10.8%",
+  "details": {
+    "Dung lượng": "1TB",
+    "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+    "Tốc độ đọc": "7,000 MB/s",
+    "Tốc độ ghi": "6,500 MB/s",
+    "TBW (Độ bền ghi)": "600TBW",
+    "Bảo hành": "5 năm",
+    "Bộ nhớ NAND": "TLC 3D NAND",
+    "Công nghệ": ["HMB (Host Memory Buffer)", "Dynamic SLC Cache"]
+  }
+}
+
+
+
+
+
+{
+  "id": 4,
+  "name": "SSD WD_BLACK SN850X 1TB",
+  "image": "https://example.com/wd-black-sn850x.jpg",
+  "price": "3.490.000đ",
+  "oldPrice": "3.890.000đ -10.3%",
+  "details": {
+    "Dung lượng": "1TB",
+    "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+    "Tốc độ đọc": "7,300 MB/s",
+    "Tốc độ ghi": "6,300 MB/s",
+    "TBW (Độ bền ghi)": "600TBW",
+    "Bảo hành": "5 năm",
+    "Bộ nhớ NAND": "3D TLC NAND",
+    "Công nghệ": ["WD_BLACK Dashboard", "Game Mode 2.0", "Heatsink Option"]
+  }
+}

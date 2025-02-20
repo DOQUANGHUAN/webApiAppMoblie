@@ -1,0 +1,66 @@
+{
+  "id": 8,
+  "name": "Nguồn ASUS ROG Thor 1000P2 - 80 Plus Platinum - Full Modular (1000W)",
+  "image": "https://example.com/asus-rog-thor-1000p2.jpg",
+  "price": "7.990.000đ",
+  "oldPrice": "8.490.000đ -5.9%",
+  "details": {
+    "Công suất": "1000W",
+    "Chứng nhận": "80 Plus Platinum",
+    "Chuẩn nguồn": "ATX",
+    "Hiệu suất": "Lên đến 92%",
+    "Modular": "Full Modular",
+    "Quạt làm mát": "135mm với công nghệ 0dB",
+    "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+    "Công nghệ": ["OLED Display", "Japanese Capacitors", "ROG Heatsinks"]
+  }
+}
+
+
+
+
+
+
+
+{
+  "id": 9,
+  "name": "Nguồn ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular",
+  "image": "https://example.com/asus-rog-strix-1000w-aura-white.jpg",
+  "price": "6.990.000đ",
+  "oldPrice": "7.490.000đ -6.7%",
+  "details": {
+    "Công suất": "1000W",
+    "Chứng nhận": "80 Plus Gold",
+    "Chuẩn nguồn": "ATX",
+    "Hiệu suất": "Lên đến 90%",
+    "Modular": "Full Modular",
+    "Quạt làm mát": "135mm với công nghệ Axial-tech",
+    "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+    "Công nghệ": ["Japanese Capacitors", "Dual Ball Bearing Fan", "ROG Heatsinks"]
+  }
+}
+
+
+
+
+
+
+
+
+{
+  "id": 10,
+  "name": "Nguồn Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W)",
+  "image": "https://example.com/corsair-rm1000e.jpg",
+  "price": "4.990.000đ",
+  "oldPrice": "5.390.000đ -7.4%",
+  "details": {
+    "Công suất": "1000W",
+    "Chứng nhận": "80 Plus Gold",
+    "Chuẩn nguồn": "ATX 3.0",
+    "Hiệu suất": "Lên đến 90%",
+    "Modular": "Full Modular",
+    "Quạt làm mát": "120mm với chế độ Zero RPM",
+    "Đầu nối PCIe 5.0": "Có (12VHPWR)",
+    "Công nghệ": ["Japanese Capacitors", "Zero RPM Mode", "LLC Resonant Topology"]
+  }
+}

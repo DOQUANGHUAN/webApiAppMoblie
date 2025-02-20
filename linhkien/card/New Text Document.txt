@@ -1,0 +1,79 @@
+{
+  "id": 11,
+  "name": "Card màn hình ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
+  "image": "https://example.com/asus-dual-rtx4070-super.jpg",
+  "price": "15.990.000đ",
+  "oldPrice": "16.990.000đ -5.9%",
+  "details": {
+    "GPU": "NVIDIA GeForce RTX 4070 SUPER",
+    "Bộ nhớ": "12GB GDDR6X",
+    "Bus bộ nhớ": "192-bit",
+    "Xung nhịp": "Tăng tốc lên đến 2475 MHz",
+    "Số nhân CUDA": "7168",
+    "Cổng kết nối": ["1 x HDMI 2.1a", "3 x DisplayPort 1.4a"],
+    "Tản nhiệt": "2 quạt Axial-tech",
+    "Công suất nguồn khuyến nghị": "650W",
+    "Đầu nối nguồn": "1 x 8-pin",
+    "Công nghệ": ["Ray Tracing", "DLSS 3", "NVIDIA Reflex"]
+  }
+}
+
+
+
+
+
+
+
+
+
+{
+  "id": 12,
+  "name": "Card màn hình GIGABYTE AORUS GeForce RTX 4070 Ti MASTER 12GB",
+  "image": "https://example.com/gigabyte-aorus-rtx4070ti-master.jpg",
+  "price": "22.990.000đ",
+  "oldPrice": "24.490.000đ -6.1%",
+  "details": {
+    "GPU": "NVIDIA GeForce RTX 4070 Ti",
+    "Bộ nhớ": "12GB GDDR6X",
+    "Bus bộ nhớ": "192-bit",
+    "Xung nhịp": "Tăng tốc lên đến 2760 MHz",
+    "Số nhân CUDA": "8448",
+    "Cổng kết nối": ["3 x DisplayPort 1.4a", "2 x HDMI 2.1a"],
+    "Tản nhiệt": "WINDFORCE 3X với 3 quạt 110mm",
+    "Công suất nguồn khuyến nghị": "750W",
+    "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+    "Công nghệ": ["RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex"]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": 13,
+  "name": "Card màn hình GIGABYTE GeForce RTX 4070 Ti AERO OC 12GB",
+  "image": "https://example.com/gigabyte-rtx4070ti-aero-oc.jpg",
+  "price": "21.990.000đ",
+  "oldPrice": "23.490.000đ -6.4%",
+  "details": {
+    "GPU": "NVIDIA GeForce RTX 4070 Ti",
+    "Bộ nhớ": "12GB GDDR6X",
+    "Bus bộ nhớ": "192-bit",
+    "Xung nhịp": "Tăng tốc lên đến 2640 MHz",
+    "Số nhân CUDA": "8448",
+    "Cổng kết nối": ["3 x DisplayPort 1.4a", "1 x HDMI 2.1a"],
+    "Tản nhiệt": "WINDFORCE 3X với 3 quạt 100mm",
+    "Công suất nguồn khuyến nghị": "750W",
+    "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+    "Công nghệ": ["RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex"]
+  }
+}
