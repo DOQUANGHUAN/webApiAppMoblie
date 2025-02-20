@@ -217,6 +217,19 @@
         "Công nghệ": [ "WD_BLACK Dashboard", "Game Mode 2.0", "Heatsink Option" ]
       }
     }
+  ],
+  "danhsachsanpham": [
+    {
+      "id": 1,
+      "name": "LAPTOP"
+    },
+    {
+      "id": 2,
+      "name": "MÁY BÀN"
+    },
+    {
+      "id": 1,
+      "name": "LINH KIỆN"
+    }
   ]
- 
 }
