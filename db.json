@@ -9,215 +9,400 @@
       "password": "123"
     }
   ],
-  "linhKien": [
-    {
-      "id": 1,
-      "name": "Card màn hình ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
-      "image": "linhkien/card/card1.jpg",
-      "price": "15.990.000đ",
-      "oldPrice": "16.990.000đ -5.9%",
-      "details": {
-        "GPU": "NVIDIA GeForce RTX 4070 SUPER",
-        "Bộ nhớ": "12GB GDDR6X",
-        "Bus bộ nhớ": "192-bit",
-        "Xung nhịp": "Tăng tốc lên đến 2475 MHz",
-        "Số nhân CUDA": "7168",
-        "Cổng kết nối": [ "1 x HDMI 2.1a", "3 x DisplayPort 1.4a" ],
-        "Tản nhiệt": "2 quạt Axial-tech",
-        "Công suất nguồn khuyến nghị": "650W",
-        "Đầu nối nguồn": "1 x 8-pin",
-        "Công nghệ": [ "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+  "chiTietSanPham": {
+    "lapTop": [
+      {
+        "id": 1,
+        "name": "Laptop Acer Aspire A315 44P R9W8 R7 5700U (NX.KSJSV.002)",
+        "image": "acer1.jpg",
+        "price": "10.990.000đ",
+        "oldPrice": "12.990.000₫ -15%",
+        "details": {
+          "CPU": "AMD Ryzen 7 - 5700U, 8 nhân, 12 luồng, 1.8GHz, Turbo Boost 4.3 GHz",
+          "Card đồ họa": "Card tích hợp - AMD Radeon Graphics",
+          "RAM": "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz, hỗ trợ tối đa 64 GB",
+          "Ổ cứng": "512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)",
+          "Màn hình": "15.6 inch (1920 x 1080), 60Hz, Độ phủ màu 45% NTSC, Tấm nền IPS",
+          "Cổng kết nối": "LAN (RJ45), Jack tai nghe 3.5 mm, 3 x USB 3.2, HDMI, 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",
+          "Kết nối không dây": "Wi-Fi 6 (802.11ax), Bluetooth 5.1",
+          "Camera": "HD webcam",
+          "Kích thước": "Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - 1.7 kg, Vỏ nhựa",
+          "Thông tin Pin": "3-cell, 50Wh",
+          "Hệ điều hành": "Windows 11 Home SL"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Laptop Dell Latitude 3440 L3440-I51235U-16G512G (i5-1235U/ 16GB/ 512GB/ Onboard/ Windows 11)",
+        "image": "Dell1.jpg",
+        "price": "16.990.000₫",
+        "oldPrice": "18.990.000₫ -10.532%",
+        "details": {
+          "CPU": "Intel Core i5 Alder Lake - 1235U, 10 nhân, 12 luồng, 1.3GHz, Turbo Boost 4.4 GHz",
+          "Card đồ họa": "Card tích hợp - Intel Iris Xe Graphics",
+          "RAM": "16 GB DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz, hỗ trợ tối đa 64 GB",
+          "Ổ cứng": "512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",
+          "Màn hình": "14inch, Full HD (1920 x 1080), 60Hz, 45% NTSC, Chống chói Anti Glare, 250 nits",
+          "Cổng kết nối": "LAN (RJ45), Jack tai nghe 3.5 mm, 2 x USB 3.2, HDMI, 1 x USB 3.2 (Always on), 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort)",
+          "Kết nối không dây": "Wi-Fi 6 (802.11ax), Bluetooth 5.3",
+          "Camera": "Full HD Webcam",
+          "Nguồn": "65W",
+          "Kích thước": "Dài 322.17 mm - Rộng 219.43 mm - Dày 19.37 mm, 1.54 kg, Vỏ nhựa",
+          "Thông tin Pin": "3-cell, 41Wh",
+          "Hệ điều hành": "Windows 11 Home SL"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Laptop HP 15s-fq5228TU - 8U240PA (i3-1215U/ 8GB/ 512GB/ Onboard/ Windows 11)",
+        "image": "HP1.jpg",
+        "price": "9.990.000₫",
+        "oldPrice": "11.990.000₫ -16.681%",
+        "details": {
+          "CPU": "Bộ xử lý Intel® Core™ i3 thế hệ 12, Intel® Core™ i3-1215U (tối đa 4.4 GHz với Công nghệ Intel® Turbo Boost, bộ nhớ đệm L3 10 MB, 6 lõi, 8 luồng)",
+          "Card đồ họa": "Tích hợp, Intel® UHD Graphics",
+          "RAM": "8 GB DDR4-3200 MT/s (1 x 8 GB) (Tốc độ truyền dữ liệu lên đến 3200 MT/s.)",
+          "Ổ cứng": "512 GB PCIe® NVMe™ M.2 SSD",
+          "Màn hình": "39.6 cm (15.6 inch) đường chéo, FHD (1920 x 1080), viền mỏng, chống chói, 250 nits, 45% NTSC",
+          "Cổng kết nối": "1 USB Type-C® tốc độ tín hiệu 5Gbps (chỉ hỗ trợ truyền dữ liệu và không hỗ trợ sạc hoặc màn hình ngoài); 2 USB Type-A tốc độ tín hiệu 5Gbps; 1 chân cắm AC thông minh; 1 HDMI 1.4b; 1 cổng kết hợp tai nghe/micrô",
+          "Kết nối không dây": "Card không dây Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi® và Bluetooth® 5 (hỗ trợ MU-MIMO; Modern Standby (Connected); tương thích Miracast®)",
+          "Camera": "Camera HD HP True Vision 720p với giảm nhiễu thời gian và micrô kỹ thuật số mảng kép tích hợp",
+          "Nguồn": "Bộ chuyển đổi nguồn AC thông minh 45 W",
+          "Kích thước": "35.85 x 24.2 x 1.79 cm, 1.69 kg, Nắp và đế màu xanh Spruce, khung bàn phím màu bạc tự nhiên",
+          "Thông tin Pin": "Li-ion 3 cell, 41 Wh, Lên đến 7 giờ 30 phút, Hỗ trợ sạc nhanh pin: khoảng 50% trong 45 phút",
+          "Hệ điều hành": "Windows 11 Home Single Language"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Laptop gaming MSI Cyborg 15 A13UC-861VN (i5-13420H/RAM 16GB/GeForce RTX 3050/512GB SSD/ Windows 11)",
+        "image": "MSI1.jpg",
+        "price": "18.990.000₫",
+        "oldPrice": "21.990.000₫ -13.643%",
+        "details": {
+          "CPU": "Intel® Core™ i5-13420H ( 4P + 4E / 12 luồng, 4.60 GHz / 3.40 GHz, 12 MB Intel® Smart Cache))",
+          "Card đồ họa": "NVIDIA® GeForce RTX™ 3050 Laptop GPU (4GB GDDR6, 128-bit, 1712.5MHz, 45W max TGP)",
+          "RAM": "16GB (2 khe, nâng cấp tối đa 64GB) DDR5 5200MHz",
+          "Ổ cứng": "512GB NVMe PCIe Gen4x4 SSD (hỗ trợ 1 khe cắm SSD)",
+          "Màn hình": "15.6 inch, FHD (1920x1080), IPS-Level, 144Hz, 45% NTSC, 65% sRGB",
+          "Cổng kết nối": "1x Type-C (USB 3.2 Gen 1 / DP), 1x Type-A (USB 3.2 Gen 1), 1x HDMI 2.1, 1x RJ45, 1x audio combo",
+          "Kết nối không dây": "Wi-Fi 6E, Bluetooth v5.2",
+          "Nguồn": "120W",
+          "Kích thước": "\t359.36 x 250.34 x 21.95~22.99 mm, 1.98kg, Màu Đen",
+          "Thông tin Pin": "3-cell, 53.5Wh",
+          "Hệ điều hành": "Windows 11 Home"
+        }
       }
-    },
-    {
-      "id": 2,
-      "name": "Card màn hình GIGABYTE AORUS GeForce RTX 4070 Ti MASTER 12GB",
-      "image": "linhkien/card/card2.jpg",
-      "price": "22.990.000đ",
-      "oldPrice": "24.490.000đ -6.1%",
-      "details": {
-        "GPU": "NVIDIA GeForce RTX 4070 Ti",
-        "Bộ nhớ": "12GB GDDR6X",
-        "Bus bộ nhớ": "192-bit",
-        "Xung nhịp": "Tăng tốc lên đến 2760 MHz",
-        "Số nhân CUDA": "8448",
-        "Cổng kết nối": [ "3 x DisplayPort 1.4a", "2 x HDMI 2.1a" ],
-        "Tản nhiệt": "WINDFORCE 3X với 3 quạt 110mm",
-        "Công suất nguồn khuyến nghị": "750W",
-        "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
-        "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+    ],
+    "PC": [
+      {
+        "id": 1,
+        "name": "PC Dell Inspiron 3030S (i5-14400/8GB DDR5/512GB SSD/Win 11 Home)",
+        "image": "Dell1.jpg",
+        "price": "14.899.000₫",
+        "oldPrice": "15.990.000₫ -6.823%",
+        "details": {
+          "CPU": "Intel Core i5-14400 (2.5 GHz - 4.7 GHz / 20MB / 10 nhân, 16 luồng)",
+          "Card đồ họa": "Intel UHD Graphics 730",
+          "RAM": "1 x 8GB DDR5 4400MHz (2 Khe cắm Hỗ trợ tối đa 64GB)",
+          "Ổ cứng": "512GB M.2 NVMe SSD",
+          "Số cổng lưu trữ tối đa": "1 x M.2 NVMe , 3 x 3.5",
+          "SATA\"": null,
+          "Cổng xuất hình": "1 x HDMI , 1 x DisplayPort",
+          "Cổng kết nối": "1 x USB Type C , 3 x USB 3.2 , 2 x USB 2.0 , 2 x 3.5 mm , LAN 1 Gb/s",
+          "Kết nối không dây": "Bluetooth ; WiFi 802.11ax",
+          "Kích thước": "Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - 1.7 kg, Vỏ nhựa",
+          "Hệ điều hành": "Windows 11 Home SL",
+          "Đầu đọc thẻ": "1 x SD card slot",
+          "VR": "không hỗ trợ",
+          "Khối lượng": "4.72 kg",
+          "Kích thước": "29.2 x 9.26 x 29 cm",
+          "Phụ kiện đi kèm": "Bàn phím + chuột"
+        }
+      },
+      {
+        "id": 2,
+        "name": "PC Acer AS XC-895 Intel Core i5 10400",
+        "image": "Acer1.jpg",
+        "price": "13.490.000₫",
+        "oldPrice": "",
+        "details": {
+          "CPU": "Intel Core i5-10400 (2.90 GHz - 4.30 GHz / 12MB / 6 nhân, 12 luồng)",
+          "Card đồ họa": "Intel UHD Graphics 730",
+          "RAM": "1 x 8GB DDR4 2666MHz (2 Khe cắm Hỗ trợ tối đa 32GB)",
+          "Ổ cứng": "256GB M.2 NVMe SSD",
+          "Số cổng lưu trữ tối đa": "1 x M.2 NVMe , 3 x 3.5",
+          "SATA\"": null,
+          "Cổng xuất hình": "2 x HDMI",
+          "Cổng kết nối": "1 x USB Type C , 5 x USB 3.0 , 2 x USB 2.0 , 4 x 3.5 mm , LAN 1 Gb/s",
+          "Kết nối không dây": "Bluetooth ; WiFi 802.11ax",
+          "Ổ đĩa quang": "DVD/CD RW",
+          "Hệ điều hành": "Windows 10 Home SL 64-bit",
+          "Đầu đọc thẻ": "1 x SD card slot",
+          "VR": "không hỗ trợ",
+          "Khối lượng": "3.89 kg",
+          "Kích thước": "29.5 x 33 x 10 cm",
+          "Phụ kiện đi kèm": "Bàn phím + Chuột USB"
+        }
+      },
+      {
+        "id": 3,
+        "name": "PC ASUS S500SE(i5-13400/8GB/512GB SSD/W11H)",
+        "image": "ASUS1.jpg",
+        "price": "14.590.000₫",
+        "oldPrice": "15.190.000₫ -3.95%",
+        "details": {
+          "CPU": "Intel Core i5-13400 (2.5 GHz - 4.6 GHz / 20MB / 10 nhân, 16 luồng)",
+          "Card đồ họa": "Intel UHD Graphics 730",
+          "RAM": "1 x 8GB DDR4 3200MHz (2 Khe cắm Hỗ trợ tối đa 64GB)",
+          "Ổ cứng": "512GB M.2 NVMe SSD",
+          "Số cổng lưu trữ tối đa": "1 x M.2 NVMe , 4 x 3.5",
+          "SATA\"": null,
+          "Cổng xuất hình": "1 x HDMI , 1 x VGA/D-sub",
+          "Cổng kết nối": "4 x USB 3.2 , 4 x USB 2.0 , 5 x 3.5 mm , LAN 1 Gb/s , 2 x PS/2",
+          "Khe PCI/PCIe": "1 x PCIe 4.0 x16, 2 x PCI-E 3.0 x1",
+          "Kết nối không dây": "Bluetooth ; WiFi 802.11ax",
+          "Hệ điều hành": "Windows 11 Home",
+          "Khối lượng": "5 kg",
+          "Kích thước": "09.46 x 29.27 x 33.96 cm",
+          "Phụ kiện đi kèm": "Chuột & Bàn phím"
+        }
+      },
+      {
+        "id": 4,
+        "name": "PC HP Pro Tower 280 G9(i7-12700/16GB RAM/512GB SSD/ Win11 Home)",
+        "image": "HP1.jpg",
+        "price": "19.690.000₫",
+        "oldPrice": "21.190.000₫ -7.079%",
+        "details": {
+          "CPU": "Intel Core i7-12700 (3.3 GHz - 4.9 GHz / 25MB / 12 nhân, 20 luồng)",
+          "Card đồ họa": "Intel UHD Graphics 770",
+          "RAM": "1 x 16GB DDR4 2933MHz (2 Khe cắm)",
+          "Ổ cứng": "512GB M.2 NVMe SSD",
+          "Số cổng lưu trữ tối đa": "1 x M.2 (2230/2280) , 2 x 3.5",
+          "SATA\"": null,
+          "Cổng xuất hình": "1 x VGA/D-sub",
+          "Cổng kết nối": "6 x USB 3.1 , 4 x USB 2.0 , 3 x 3.5 mm , LAN 1 Gb/s , 1 x PS/2",
+          "Khe PCI/PCIe": "1 x PCIe 4.0 x16, 2 x PCI-E 3.0 x1",
+          "Kết nối không dây": "Bluetooth 5.0 ; WiFi 802.11ax",
+          "Đầu đọc thẻ": "1 x SD card slot",
+          "Hệ điều hành": "Windows 11 Home",
+          "Khối lượng": "4.7 kg",
+          "Kích thước": "15.5 x 30.3 x 33.7 cm",
+          "Phụ kiện đi kèm": "Bàn phím + Chuột, dây nguồn"
+        }
       }
-    },
-    {
-      "id": 3,
-      "name": "Card màn hình GIGABYTE GeForce RTX 4070 Ti AERO OC 12GB",
-      "image": "linhkien/card/card3.jpg",
-      "price": "21.990.000đ",
-      "oldPrice": "23.490.000đ -6.4%",
-      "details": {
-        "GPU": "NVIDIA GeForce RTX 4070 Ti",
-        "Bộ nhớ": "12GB GDDR6X",
-        "Bus bộ nhớ": "192-bit",
-        "Xung nhịp": "Tăng tốc lên đến 2640 MHz",
-        "Số nhân CUDA": "8448",
-        "Cổng kết nối": [ "3 x DisplayPort 1.4a", "1 x HDMI 2.1a" ],
-        "Tản nhiệt": "WINDFORCE 3X với 3 quạt 100mm",
-        "Công suất nguồn khuyến nghị": "750W",
-        "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
-        "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+    ],
+    "linhkien": [
+      {
+        "id": 1,
+        "name": "Card màn hình ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
+        "image": "card1.jpg",
+        "price": "15.990.000đ",
+        "oldPrice": "16.990.000đ -5.9%",
+        "details": {
+          "GPU": "NVIDIA GeForce RTX 4070 SUPER",
+          "Bộ nhớ": "12GB GDDR6X",
+          "Bus bộ nhớ": "192-bit",
+          "Xung nhịp": "Tăng tốc lên đến 2475 MHz",
+          "Số nhân CUDA": "7168",
+          "Cổng kết nối": [ "1 x HDMI 2.1a", "3 x DisplayPort 1.4a" ],
+          "Tản nhiệt": "2 quạt Axial-tech",
+          "Công suất nguồn khuyến nghị": "650W",
+          "Đầu nối nguồn": "1 x 8-pin",
+          "Công nghệ": [ "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "Card màn hình GIGABYTE AORUS GeForce RTX 4070 Ti MASTER 12GB",
+        "image": "card2.jpg",
+        "price": "22.990.000đ",
+        "oldPrice": "24.490.000đ -6.1%",
+        "details": {
+          "GPU": "NVIDIA GeForce RTX 4070 Ti",
+          "Bộ nhớ": "12GB GDDR6X",
+          "Bus bộ nhớ": "192-bit",
+          "Xung nhịp": "Tăng tốc lên đến 2760 MHz",
+          "Số nhân CUDA": "8448",
+          "Cổng kết nối": [ "3 x DisplayPort 1.4a", "2 x HDMI 2.1a" ],
+          "Tản nhiệt": "WINDFORCE 3X với 3 quạt 110mm",
+          "Công suất nguồn khuyến nghị": "750W",
+          "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+          "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "Card màn hình GIGABYTE GeForce RTX 4070 Ti AERO OC 12GB",
+        "image": "card3.jpg",
+        "price": "21.990.000đ",
+        "oldPrice": "23.490.000đ -6.4%",
+        "details": {
+          "GPU": "NVIDIA GeForce RTX 4070 Ti",
+          "Bộ nhớ": "12GB GDDR6X",
+          "Bus bộ nhớ": "192-bit",
+          "Xung nhịp": "Tăng tốc lên đến 2640 MHz",
+          "Số nhân CUDA": "8448",
+          "Cổng kết nối": [ "3 x DisplayPort 1.4a", "1 x HDMI 2.1a" ],
+          "Tản nhiệt": "WINDFORCE 3X với 3 quạt 100mm",
+          "Công suất nguồn khuyến nghị": "750W",
+          "Đầu nối nguồn": "1 x 16-pin (12VHPWR)",
+          "Công nghệ": [ "RGB Fusion 2.0", "Ray Tracing", "DLSS 3", "NVIDIA Reflex" ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Nguồn ASUS ROG Thor 1000P2 - 80 Plus Platinum - Full Modular (1000W)",
+        "image": "nguon1.jpg",
+        "price": "7.990.000đ",
+        "oldPrice": "8.490.000đ -5.9%",
+        "details": {
+          "Công suất": "1000W",
+          "Chứng nhận": "80 Plus Platinum",
+          "Chuẩn nguồn": "ATX",
+          "Hiệu suất": "Lên đến 92%",
+          "Modular": "Full Modular",
+          "Quạt làm mát": "135mm với công nghệ 0dB",
+          "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+          "Công nghệ": [ "OLED Display", "Japanese Capacitors", "ROG Heatsinks" ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "Nguồn ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular",
+        "image": "nguon2.jpg",
+        "price": "6.990.000đ",
+        "oldPrice": "7.490.000đ -6.7%",
+        "details": {
+          "Công suất": "1000W",
+          "Chứng nhận": "80 Plus Gold",
+          "Chuẩn nguồn": "ATX",
+          "Hiệu suất": "Lên đến 90%",
+          "Modular": "Full Modular",
+          "Quạt làm mát": "135mm với công nghệ Axial-tech",
+          "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
+          "Công nghệ": [ "Japanese Capacitors", "Dual Ball Bearing Fan", "ROG Heatsinks" ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "Nguồn Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W)",
+        "image": "nguon3.jpg",
+        "price": "4.990.000đ",
+        "oldPrice": "5.390.000đ -7.4%",
+        "details": {
+          "Công suất": "1000W",
+          "Chứng nhận": "80 Plus Gold",
+          "Chuẩn nguồn": "ATX 3.0",
+          "Hiệu suất": "Lên đến 90%",
+          "Modular": "Full Modular",
+          "Quạt làm mát": "120mm với chế độ Zero RPM",
+          "Đầu nối PCIe 5.0": "Có (12VHPWR)",
+          "Công nghệ": [ "Japanese Capacitors", "Zero RPM Mode", "LLC Resonant Topology" ]
+        }
+      },
+      {
+        "id": 7,
+        "name": "RAM Kingston Fury Beast RGB 16GB (2x8GB) DDR5 5600MHz",
+        "image": "ram1.jpg",
+        "price": "2.190.000đ",
+        "oldPrice": "2.490.000đ -12.0%",
+        "details": {
+          "Dung lượng": "16GB (2x8GB)",
+          "Chuẩn RAM": "DDR5",
+          "Bus": "5600MHz",
+          "Độ trễ": "CL40",
+          "Điện áp": "1.25V",
+          "Tản nhiệt": "Có, với RGB",
+          "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "RAM Adata XPG Lancer 16GB 6000MHz DDR5",
+        "image": "ram2.jpg",
+        "price": "2.290.000đ",
+        "oldPrice": "2.590.000đ -11.6%",
+        "details": {
+          "Dung lượng": "16GB (1x16GB)",
+          "Chuẩn RAM": "DDR5",
+          "Bus": "6000MHz",
+          "Độ trễ": "CL40",
+          "Điện áp": "1.35V",
+          "Tản nhiệt": "Có, với RGB",
+          "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "RAM G.Skill Trident Z5 RGB 16GB (1x16GB) 6000MHz DDR5 Silver",
+        "image": "ram3.jpg",
+        "price": "2.590.000đ",
+        "oldPrice": "2.890.000đ -10.4%",
+        "details": {
+          "Dung lượng": "16GB (1x16GB)",
+          "Chuẩn RAM": "DDR5",
+          "Bus": "6000MHz",
+          "Độ trễ": "CL40",
+          "Điện áp": "1.35V",
+          "Tản nhiệt": "Có, với RGB",
+          "Công nghệ": [ "Intel XMP 3.0", "High-Performance Aluminum Heatspreader" ]
+        }
+      },
+      {
+        "id": 10,
+        "name": "SSD Samsung 990 EVO Plus 1TB",
+        "image": "ssd1.jpg",
+        "price": "2.890.000đ",
+        "oldPrice": "3.190.000đ -9.4%",
+        "details": {
+          "Dung lượng": "1TB",
+          "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+          "Tốc độ đọc": "5,000 MB/s",
+          "Tốc độ ghi": "4,200 MB/s",
+          "TBW (Độ bền ghi)": "600TBW",
+          "Bảo hành": "5 năm",
+          "Bộ nhớ NAND": "V-NAND 3-bit MLC",
+          "Công nghệ": [ "Samsung Magician", "Dynamic Thermal Guard" ]
+        }
+      },
+      {
+        "id": 11,
+        "name": "SSD KingSpec XG 7000 1TB",
+        "image": "ssd2.jpg",
+        "price": "2.490.000đ",
+        "oldPrice": "2.790.000đ -10.8%",
+        "details": {
+          "Dung lượng": "1TB",
+          "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+          "Tốc độ đọc": "7,000 MB/s",
+          "Tốc độ ghi": "6,500 MB/s",
+          "TBW (Độ bền ghi)": "600TBW",
+          "Bảo hành": "5 năm",
+          "Bộ nhớ NAND": "TLC 3D NAND",
+          "Công nghệ": [ "HMB (Host Memory Buffer)", "Dynamic SLC Cache" ]
+        }
+      },
+      {
+        "id": 12,
+        "name": "SSD WD_BLACK SN850X 1TB",
+        "image": "ssd3.jpg",
+        "price": "3.490.000đ",
+        "oldPrice": "3.890.000đ -10.3%",
+        "details": {
+          "Dung lượng": "1TB",
+          "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
+          "Tốc độ đọc": "7,300 MB/s",
+          "Tốc độ ghi": "6,300 MB/s",
+          "TBW (Độ bền ghi)": "600TBW",
+          "Bảo hành": "5 năm",
+          "Bộ nhớ NAND": "3D TLC NAND",
+          "Công nghệ": [ "WD_BLACK Dashboard", "Game Mode 2.0", "Heatsink Option" ]
+        }
       }
-    },
-    {
-      "id": 4,
-      "name": "Nguồn ASUS ROG Thor 1000P2 - 80 Plus Platinum - Full Modular (1000W)",
-      "image": "linhkien/nguon/nguon1.jpg",
-      "price": "7.990.000đ",
-      "oldPrice": "8.490.000đ -5.9%",
-      "details": {
-        "Công suất": "1000W",
-        "Chứng nhận": "80 Plus Platinum",
-        "Chuẩn nguồn": "ATX",
-        "Hiệu suất": "Lên đến 92%",
-        "Modular": "Full Modular",
-        "Quạt làm mát": "135mm với công nghệ 0dB",
-        "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
-        "Công nghệ": [ "OLED Display", "Japanese Capacitors", "ROG Heatsinks" ]
-      }
-    },
-    {
-      "id": 5,
-      "name": "Nguồn ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular",
-      "image": "linhkien/nguon/nguon2.jpg",
-      "price": "6.990.000đ",
-      "oldPrice": "7.490.000đ -6.7%",
-      "details": {
-        "Công suất": "1000W",
-        "Chứng nhận": "80 Plus Gold",
-        "Chuẩn nguồn": "ATX",
-        "Hiệu suất": "Lên đến 90%",
-        "Modular": "Full Modular",
-        "Quạt làm mát": "135mm với công nghệ Axial-tech",
-        "Đèn RGB": "Có, đồng bộ với ASUS Aura Sync",
-        "Công nghệ": [ "Japanese Capacitors", "Dual Ball Bearing Fan", "ROG Heatsinks" ]
-      }
-    },
-    {
-      "id": 6,
-      "name": "Nguồn Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W)",
-      "image": "linhkien/nguon/nguon3.jpg",
-      "price": "4.990.000đ",
-      "oldPrice": "5.390.000đ -7.4%",
-      "details": {
-        "Công suất": "1000W",
-        "Chứng nhận": "80 Plus Gold",
-        "Chuẩn nguồn": "ATX 3.0",
-        "Hiệu suất": "Lên đến 90%",
-        "Modular": "Full Modular",
-        "Quạt làm mát": "120mm với chế độ Zero RPM",
-        "Đầu nối PCIe 5.0": "Có (12VHPWR)",
-        "Công nghệ": [ "Japanese Capacitors", "Zero RPM Mode", "LLC Resonant Topology" ]
-      }
-    },
-    {
-      "id": 7,
-      "name": "RAM Kingston Fury Beast RGB 16GB (2x8GB) DDR5 5600MHz",
-      "image": "linhkien/ram/ram1.jpg",
-      "price": "2.190.000đ",
-      "oldPrice": "2.490.000đ -12.0%",
-      "details": {
-        "Dung lượng": "16GB (2x8GB)",
-        "Chuẩn RAM": "DDR5",
-        "Bus": "5600MHz",
-        "Độ trễ": "CL40",
-        "Điện áp": "1.25V",
-        "Tản nhiệt": "Có, với RGB",
-        "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
-      }
-    },
-    {
-      "id": 8,
-      "name": "RAM Adata XPG Lancer 16GB 6000MHz DDR5",
-      "image": "linhkien/ram/ram2.jpg",
-      "price": "2.290.000đ",
-      "oldPrice": "2.590.000đ -11.6%",
-      "details": {
-        "Dung lượng": "16GB (1x16GB)",
-        "Chuẩn RAM": "DDR5",
-        "Bus": "6000MHz",
-        "Độ trễ": "CL40",
-        "Điện áp": "1.35V",
-        "Tản nhiệt": "Có, với RGB",
-        "Công nghệ": [ "Intel XMP 3.0", "Dynamic RGB Lighting" ]
-      }
-    },
-    {
-      "id": 9,
-      "name": "RAM G.Skill Trident Z5 RGB 16GB (1x16GB) 6000MHz DDR5 Silver",
-      "image": "linhkien/ram/ram3.jpg",
-      "price": "2.590.000đ",
-      "oldPrice": "2.890.000đ -10.4%",
-      "details": {
-        "Dung lượng": "16GB (1x16GB)",
-        "Chuẩn RAM": "DDR5",
-        "Bus": "6000MHz",
-        "Độ trễ": "CL40",
-        "Điện áp": "1.35V",
-        "Tản nhiệt": "Có, với RGB",
-        "Công nghệ": [ "Intel XMP 3.0", "High-Performance Aluminum Heatspreader" ]
-      }
-    },
-    {
-      "id": 10,
-      "name": "SSD Samsung 990 EVO Plus 1TB",
-      "image": "linhkien/ssd/ssd1.jpg",
-      "price": "2.890.000đ",
-      "oldPrice": "3.190.000đ -9.4%",
-      "details": {
-        "Dung lượng": "1TB",
-        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
-        "Tốc độ đọc": "5,000 MB/s",
-        "Tốc độ ghi": "4,200 MB/s",
-        "TBW (Độ bền ghi)": "600TBW",
-        "Bảo hành": "5 năm",
-        "Bộ nhớ NAND": "V-NAND 3-bit MLC",
-        "Công nghệ": [ "Samsung Magician", "Dynamic Thermal Guard" ]
-      }
-    },
-    {
-      "id": 11,
-      "name": "SSD KingSpec XG 7000 1TB",
-      "image": "linhkien/ssd/ssd2.jpg",
-      "price": "2.490.000đ",
-      "oldPrice": "2.790.000đ -10.8%",
-      "details": {
-        "Dung lượng": "1TB",
-        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
-        "Tốc độ đọc": "7,000 MB/s",
-        "Tốc độ ghi": "6,500 MB/s",
-        "TBW (Độ bền ghi)": "600TBW",
-        "Bảo hành": "5 năm",
-        "Bộ nhớ NAND": "TLC 3D NAND",
-        "Công nghệ": [ "HMB (Host Memory Buffer)", "Dynamic SLC Cache" ]
-      }
-    },
-    {
-      "id": 12,
-      "name": "SSD WD_BLACK SN850X 1TB",
-      "image": "linhkien/ssd/ssd3.jpg",
-      "price": "3.490.000đ",
-      "oldPrice": "3.890.000đ -10.3%",
-      "details": {
-        "Dung lượng": "1TB",
-        "Chuẩn giao tiếp": "PCIe 4.0 NVMe",
-        "Tốc độ đọc": "7,300 MB/s",
-        "Tốc độ ghi": "6,300 MB/s",
-        "TBW (Độ bền ghi)": "600TBW",
-        "Bảo hành": "5 năm",
-        "Bộ nhớ NAND": "3D TLC NAND",
-        "Công nghệ": [ "WD_BLACK Dashboard", "Game Mode 2.0", "Heatsink Option" ]
-      }
-    }
-  ],
+    ]
+  },
   "danhsachsanpham": [
     {
       "id": 1,
