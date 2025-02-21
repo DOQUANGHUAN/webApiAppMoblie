@@ -14,7 +14,7 @@
       {
         "id": 1,
         "name": "Laptop Acer Aspire A315 44P R9W8 R7 5700U (NX.KSJSV.002)",
-        "image": "acer1.jpg",
+        "image": "LaptopAcer1.jpg",
         "price": "10.990.000đ",
         "oldPrice": "12.990.000₫ -15%",
         "details": {
@@ -34,7 +34,7 @@
       {
         "id": 2,
         "name": "Laptop Dell Latitude 3440 L3440-I51235U-16G512G (i5-1235U/ 16GB/ 512GB/ Onboard/ Windows 11)",
-        "image": "Dell1.jpg",
+        "image": "LaptopDell1.jpg",
         "price": "16.990.000₫",
         "oldPrice": "18.990.000₫ -10.532%",
         "details": {
@@ -55,7 +55,7 @@
       {
         "id": 3,
         "name": "Laptop HP 15s-fq5228TU - 8U240PA (i3-1215U/ 8GB/ 512GB/ Onboard/ Windows 11)",
-        "image": "HP1.jpg",
+        "image": "LaptopHP1.jpg",
         "price": "9.990.000₫",
         "oldPrice": "11.990.000₫ -16.681%",
         "details": {
@@ -76,7 +76,7 @@
       {
         "id": 4,
         "name": "Laptop gaming MSI Cyborg 15 A13UC-861VN (i5-13420H/RAM 16GB/GeForce RTX 3050/512GB SSD/ Windows 11)",
-        "image": "MSI1.jpg",
+        "image": "LaptopMSI1.jpg",
         "price": "18.990.000₫",
         "oldPrice": "21.990.000₫ -13.643%",
         "details": {
@@ -98,7 +98,7 @@
       {
         "id": 1,
         "name": "PC Dell Inspiron 3030S (i5-14400/8GB DDR5/512GB SSD/Win 11 Home)",
-        "image": "Dell1.jpg",
+        "image": "PCDell1.jpg",
         "price": "14.899.000₫",
         "oldPrice": "15.990.000₫ -6.823%",
         "details": {
@@ -123,7 +123,7 @@
       {
         "id": 2,
         "name": "PC Acer AS XC-895 Intel Core i5 10400",
-        "image": "Acer1.jpg",
+        "image": "PCAcer1.jpg",
         "price": "13.490.000₫",
         "oldPrice": "",
         "details": {
@@ -148,7 +148,7 @@
       {
         "id": 3,
         "name": "PC ASUS S500SE(i5-13400/8GB/512GB SSD/W11H)",
-        "image": "ASUS1.jpg",
+        "image": "PCASUS1.jpg",
         "price": "14.590.000₫",
         "oldPrice": "15.190.000₫ -3.95%",
         "details": {
@@ -171,7 +171,7 @@
       {
         "id": 4,
         "name": "PC HP Pro Tower 280 G9(i7-12700/16GB RAM/512GB SSD/ Win11 Home)",
-        "image": "HP1.jpg",
+        "image": "PCHP1.jpg",
         "price": "19.690.000₫",
         "oldPrice": "21.190.000₫ -7.079%",
         "details": {
