@@ -15,7 +15,7 @@
       "category": "laptop",
       "name": "Laptop Acer Aspire A315 44P R9W8 R7 5700U (NX.KSJSV.002)",
       "image": "LaptopAcer1.jpg",
-      "price": "10.990.000đ",
+      "price": 10990000,
       "oldPrice": "12.990.000₫ -15%",
       "details": {
         "CPU": "AMD Ryzen 7 - 5700U, 8 nhân, 12 luồng, 1.8GHz, Turbo Boost 4.3 GHz",
@@ -36,7 +36,7 @@
       "category": "laptop",
       "name": "Laptop Dell Latitude 3440 L3440-I51235U-16G512G (i5-1235U/ 16GB/ 512GB/ Onboard/ Windows 11)",
       "image": "LaptopDell1.jpg",
-      "price": "16.990.000₫",
+      "price": 16990000,
       "oldPrice": "18.990.000₫ -10.532%",
       "details": {
         "CPU": "Intel Core i5 Alder Lake - 1235U, 10 nhân, 12 luồng, 1.3GHz, Turbo Boost 4.4 GHz",
@@ -58,7 +58,7 @@
       "category": "laptop",
       "name": "Laptop HP 15s-fq5228TU - 8U240PA (i3-1215U/ 8GB/ 512GB/ Onboard/ Windows 11)",
       "image": "LaptopHP1.jpg",
-      "price": "9.990.000₫",
+      "price": 9990000,
       "oldPrice": "11.990.000₫ -16.681%",
       "details": {
         "CPU": "Bộ xử lý Intel® Core™ i3 thế hệ 12, Intel® Core™ i3-1215U (tối đa 4.4 GHz với Công nghệ Intel® Turbo Boost, bộ nhớ đệm L3 10 MB, 6 lõi, 8 luồng)",
@@ -80,7 +80,7 @@
       "category": "laptop",
       "name": "Laptop gaming MSI Cyborg 15 A13UC-861VN (i5-13420H/RAM 16GB/GeForce RTX 3050/512GB SSD/ Windows 11)",
       "image": "LaptopMSI1.jpg",
-      "price": "18.990.000₫",
+      "price": 18990000,
       "oldPrice": "21.990.000₫ -13.643%",
       "details": {
         "CPU": "Intel® Core™ i5-13420H ( 4P + 4E / 12 luồng, 4.60 GHz / 3.40 GHz, 12 MB Intel® Smart Cache))",
@@ -101,7 +101,7 @@
       "category": "PC",
       "name": "PC Dell Inspiron 3030S (i5-14400/8GB DDR5/512GB SSD/Win 11 Home)",
       "image": "PCDell1.jpg",
-      "price": "14.899.000₫",
+      "price": 14899000,
       "oldPrice": "15.990.000₫ -6.823%",
       "details": {
         "CPU": "Intel Core i5-14400 (2.5 GHz - 4.7 GHz / 20MB / 10 nhân, 16 luồng)",
@@ -127,7 +127,7 @@
       "category": "PC",
       "name": "PC Acer AS XC-895 Intel Core i5 10400",
       "image": "PCAcer1.jpg",
-      "price": "13.490.000₫",
+      "price": 13490000,
       "oldPrice": "",
       "details": {
         "CPU": "Intel Core i5-10400 (2.90 GHz - 4.30 GHz / 12MB / 6 nhân, 12 luồng)",
@@ -153,7 +153,7 @@
       "category": "PC",
       "name": "PC ASUS S500SE(i5-13400/8GB/512GB SSD/W11H)",
       "image": "PCASUS1.jpg",
-      "price": "14.590.000₫",
+      "price": 14590000,
       "oldPrice": "15.190.000₫ -3.95%",
       "details": {
         "CPU": "Intel Core i5-13400 (2.5 GHz - 4.6 GHz / 20MB / 10 nhân, 16 luồng)",
@@ -177,7 +177,7 @@
       "category": "PC",
       "name": "PC HP Pro Tower 280 G9(i7-12700/16GB RAM/512GB SSD/ Win11 Home)",
       "image": "PCHP1.jpg",
-      "price": "19.690.000₫",
+      "price": 19690000,
       "oldPrice": "21.190.000₫ -7.079%",
       "details": {
         "CPU": "Intel Core i7-12700 (3.3 GHz - 4.9 GHz / 25MB / 12 nhân, 20 luồng)",
@@ -202,7 +202,7 @@
       "category": "LINH KIỆN",
       "name": "Card màn hình ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
       "image": "card1.jpg",
-      "price": "15.990.000đ",
+      "price": 15990000,
       "oldPrice": "16.990.000đ -5.9%",
       "details": {
         "GPU": "NVIDIA GeForce RTX 4070 SUPER",
@@ -222,7 +222,7 @@
       "category": "LINH KIỆN",
       "name": "Card màn hình GIGABYTE AORUS GeForce RTX 4070 Ti MASTER 12GB",
       "image": "card2.jpg",
-      "price": "22.990.000đ",
+      "price": 22990000,
       "oldPrice": "24.490.000đ -6.1%",
       "details": {
         "GPU": "NVIDIA GeForce RTX 4070 Ti",
@@ -242,7 +242,7 @@
       "category": "LINH KIỆN",
       "name": "Card màn hình GIGABYTE GeForce RTX 4070 Ti AERO OC 12GB",
       "image": "card3.jpg",
-      "price": "21.990.000đ",
+      "price": 21990000,
       "oldPrice": "23.490.000đ -6.4%",
       "details": {
         "GPU": "NVIDIA GeForce RTX 4070 Ti",
@@ -262,7 +262,7 @@
       "category": "LINH KIỆN",
       "name": "Nguồn ASUS ROG Thor 1000P2 - 80 Plus Platinum - Full Modular (1000W)",
       "image": "nguon1.jpg",
-      "price": "7.990.000đ",
+      "price": 7990000,
       "oldPrice": "8.490.000đ -5.9%",
       "details": {
         "Công suất": "1000W",
@@ -280,7 +280,7 @@
       "category": "LINH KIỆN",
       "name": "Nguồn ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular",
       "image": "nguon2.jpg",
-      "price": "6.990.000đ",
+      "price": 6990000,
       "oldPrice": "7.490.000đ -6.7%",
       "details": {
         "Công suất": "1000W",
@@ -298,7 +298,7 @@
       "category": "LINH KIỆN",
       "name": "Nguồn Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W)",
       "image": "nguon3.jpg",
-      "price": "4.990.000đ",
+      "price": 4990000,
       "oldPrice": "5.390.000đ -7.4%",
       "details": {
         "Công suất": "1000W",
@@ -316,7 +316,7 @@
       "category": "LINH KIỆN",
       "name": "RAM Kingston Fury Beast RGB 16GB (2x8GB) DDR5 5600MHz",
       "image": "ram1.jpg",
-      "price": "2.190.000đ",
+      "price": 2190000,
       "oldPrice": "2.490.000đ -12.0%",
       "details": {
         "Dung lượng": "16GB (2x8GB)",
@@ -333,7 +333,7 @@
       "category": "LINH KIỆN",
       "name": "RAM Adata XPG Lancer 16GB 6000MHz DDR5",
       "image": "ram2.jpg",
-      "price": "2.290.000đ",
+      "price": 2290000,
       "oldPrice": "2.590.000đ -11.6%",
       "details": {
         "Dung lượng": "16GB (1x16GB)",
@@ -350,7 +350,7 @@
       "category": "LINH KIỆN",
       "name": "RAM G.Skill Trident Z5 RGB 16GB (1x16GB) 6000MHz DDR5 Silver",
       "image": "ram3.jpg",
-      "price": "2.590.000đ",
+      "price": 2590000,
       "oldPrice": "2.890.000đ -10.4%",
       "details": {
         "Dung lượng": "16GB (1x16GB)",
@@ -367,7 +367,7 @@
       "category": "LINH KIỆN",
       "name": "SSD Samsung 990 EVO Plus 1TB",
       "image": "ssd1.jpg",
-      "price": "2.890.000đ",
+      "price": 2890000,
       "oldPrice": "3.190.000đ -9.4%",
       "details": {
         "Dung lượng": "1TB",
@@ -385,7 +385,7 @@
       "category": "LINH KIỆN",
       "name": "SSD KingSpec XG 7000 1TB",
       "image": "ssd2.jpg",
-      "price": "2.490.000đ",
+      "price": 2490000,
       "oldPrice": "2.790.000đ -10.8%",
       "details": {
         "Dung lượng": "1TB",
@@ -403,7 +403,7 @@
       "category": "LINH KIỆN",
       "name": "SSD WD_BLACK SN850X 1TB",
       "image": "ssd3.jpg",
-      "price": "3.490.000đ",
+      "price": 3490000,
       "oldPrice": "3.890.000đ -10.3%",
       "details": {
         "Dung lượng": "1TB",
