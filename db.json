@@ -420,7 +420,7 @@
   "danhsachsanpham": [
     {
       "id": 1,
-      "name": "laptop"
+      "name": "Laptop"
     },
     {
       "id": 2,
@@ -428,7 +428,7 @@
     },
     {
       "id": 3,
-      "name": "LINH KIỆN"
+      "name": "Linh Kiện"
     }
   ]
 }
