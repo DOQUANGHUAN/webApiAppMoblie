@@ -1,14 +1,37 @@
 ﻿{
-  "accountUser": [
+  "users": [
     {
       "username": "huan",
-      "password": "123"
-    },
-    {
-      "username": "huan2",
-      "password": "123"
+      "password": "123",
+      "fullName": "Nguyen Van Huan",
+      "email": "huan@example.com",
+      "phone": "0987654321",
+      "address": "123 Nguyen Trai, Hanoi, Vietnam",
+      "orders": [
+        {
+          "orderId": "ORD001",
+          "date": "2025-03-04",
+          "total": 500000,
+          "items": [
+            {
+              "productId": "P001",
+              "name": "Laptop Dell",
+              "quantity": 1,
+              "price": 500000
+            }
+          ]
+        }
+      ]
     }
   ],
+  "registration": {
+    "username": "",
+    "password": "",
+    "fullName": "",
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
   "chiTietSanPham": [
     {
       "id": 1,
