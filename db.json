@@ -1,6 +1,7 @@
 ﻿{
   "users": [
     {
+      "id": 1,
       "username": "huan",
       "password": "123",
       "fullName": "Nguyen Van Huan",
